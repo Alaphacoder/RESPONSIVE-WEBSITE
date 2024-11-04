@@ -9,4 +9,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 HERE'S A PREVIEW:-
-responsive-website-restaurant/preview.png
+preview.png
